@@ -1,0 +1,17 @@
+.story > .story-bg {
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 120px;
+    height: 200px;
+    transition: transform 100ms ease-in;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.story-header {
+    cursor: pointer;
+}
+.story-header h5:not(:first-child):hover {
+    background-color: #f2f2f2;
+    border-radius: 10px;
+}

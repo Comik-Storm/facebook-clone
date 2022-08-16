@@ -1,0 +1,14 @@
+.post {
+    background-color: #e4e6eb;
+    border-radius: 999px;
+}
+.post:hover {
+    background-color: #d8dadf;
+    cursor: pointer;
+}
+.msg-input {
+    background-color: #e4e6eb;
+    outline: none;
+    border: none;
+    border-radius: 999px;
+}

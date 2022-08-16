@@ -1,0 +1,14 @@
+.signIn {
+    overflow: hidden;
+    background-color: #f0f2f5;
+}
+.signin-logo > div {
+    min-height: 100vh;
+}
+.signIn img {
+    object-fit: contain;
+    height: 200px;
+}
+signIn-card {
+    width: 150rem;
+}

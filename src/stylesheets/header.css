@@ -1,0 +1,27 @@
+.header-left-icon > img {
+    height: 40px;
+}
+.header-left-search {
+    background-color: #f0f2f5;
+    border-radius: 999px;
+}
+.header-left-search > input {
+    border: none;
+    background-color: transparent;
+}
+.header-middle > .header-middle-option:hover {
+    background-color: #f0f2f5;
+    color: #1b74e4;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.header-middle > .option-active {
+    border-bottom: 2px solid #1b74e4;
+    color: #1b74e4;
+}
+.header-right > .header-right-option > .option {
+    background-color: #e4e6eb;
+}
+.header-right > .header-right-option > .option:hover {
+    background-color: #d8dadf;
+}
